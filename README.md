@@ -60,6 +60,9 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 - **Cloud-based Media Management:** StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 - **Markdown Formatting:** Course content in document format is stored in Markdown format, allowing for easier display and rendering on the front-end.
 
+![addcourse Page](images/addcourse.png)
+
+
 #### Back-end Frameworks, Libraries, and Tools
 
 The back-end of StudyNotion uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
